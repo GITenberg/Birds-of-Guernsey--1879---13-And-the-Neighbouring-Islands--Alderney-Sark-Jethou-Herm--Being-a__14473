@@ -1,0 +1,31 @@
+_repo: Birds-of-Guernsey--1879---13-And-the-Neighbouring-Islands--Alderney-Sark-Jethou-Herm--Being-a__14473
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Cecil
+    birthdate: 1826
+    deathdate: 1890
+    gutenberg_agent_id: '5540'
+    url: http://www.gutenberg.org/2009/agents/5540
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Biology
+- Natural History
+gutenberg_issued: '2004-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Channel Islands'
+- !lcc 'QL'
+title: "Birds of Guernsey (1879)\r\nAnd the Neighbouring Islands: Alderney, Sark,\
+  \ Jethou, Herm; Being a Small Contribution to the Ornitholony of the Channel Islands"
+url: http://www.gutenberg.org/ebooks/14473
