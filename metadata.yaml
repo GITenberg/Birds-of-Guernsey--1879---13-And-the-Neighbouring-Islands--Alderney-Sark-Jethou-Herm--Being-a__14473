@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5540'
     url: http://www.gutenberg.org/2009/agents/5540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14473#Birds-of-Guernsey--1879---13-And-the-Neighbouring-Islands--Alderney-Sark-Jethou-Herm--Being-a_
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Biology
